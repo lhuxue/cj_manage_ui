@@ -28,3 +28,35 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+## Project Structure
+
+```
+├── public
+│   ├── favicon.ico
+│   └── index.html
+├── src
+│   ├── assets
+│   ├── components
+│   ├── directives
+│   ├── filters
+│   ├── layouts
+│   ├── locales
+│   ├── pages
+│   ├── plugins
+│   ├── router
+│   ├── services
+│   ├── styles
+│   ├── utils
+│   ├── views
+│   ├── App.vue
+│   ├── main.ts
+│   └── shims-vue.d.ts
+├── tests
+├── vite.config.ts
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
